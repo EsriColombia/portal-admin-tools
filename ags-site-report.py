@@ -64,7 +64,7 @@ if __name__ == '__main__':
         printStartEndEjecution()
         
         
-        ServerDirectoryPath= "D:/MIGRACION108/arcgissystem"
+        ServerDirectoryPath= "D:/SiteFolder/arcgissystem"
         
         ags= webgis.ArcGISServer()
 
