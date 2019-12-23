@@ -78,7 +78,7 @@ if __name__ == '__main__':
         
        
         WebGISRest = PortaREST("usuario","pass@word", "https://portal.entidad.com/portal")
-        WebGISRest.GenerateItemsByUserReport("D:\MIGRACION108\Reportes\portal-report-{}.csv".format(fecha))
+        WebGISRest.GenerateItemsByUserReport("D:\Reportes\portal-report-{}.csv".format(fecha))
 
         
                 
